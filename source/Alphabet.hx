@@ -9,6 +9,7 @@ import flixel.util.FlxTimer;
 
 using StringTools;
 
+//why do i have access to this
 /**
  * Loosley based on FlxTypeText lolol
  */
